@@ -1,5 +1,4 @@
 # Bikesharing
-Exploring Bike-Sharing Data with Tableau. Create worksheets, dashboards, and stories from New York City bike-sharing data.
 
 ## Overview of the statistical analysis:
 
@@ -7,9 +6,7 @@ The purpose of the analysis is well defined. (5 pt)
 
 ## Results:
 
-This site was built using [GitHub Pages](https://pages.github.com/).
-
-Seven visualizations for the NYC Citibike analysis:
+Eight visualizations for the NYC Citibike analysis (posted to tableau public):
 1. [Checkout Times for Users](https://public.tableau.com/app/profile/kobert.lam/viz/NYCCitiBikeChallenge-CheckoutTimesforUsers/CheckoutTimesforUsers?publish=yes)
     * results here
 2. [Checkout Times by Gender](https://public.tableau.com/app/profile/kobert.lam/viz/NYCCitiBikeChallenge-CheckoutTimesbyGender/CheckoutTimesbyGender?publish=yes)
@@ -20,9 +17,11 @@ Seven visualizations for the NYC Citibike analysis:
     * results here
 5. [User Trips by Gender by Weekday](https://public.tableau.com/app/profile/kobert.lam/viz/NYCCitiBikeChallenge-UserTripsbyGenderbyWeekday/UserTripsbyGenderbyWeekday?publish=yes)
     * results here
-6. 
+6. [Number of Rides](https://public.tableau.com/app/profile/kobert.lam/viz/NYCCitiBikeChallenge-NumberofRides/NumberofRides?publish=yes)
     * results here
-7. 
+7. [Customers](https://public.tableau.com/app/profile/kobert.lam/viz/NYCCitiBikeChallenge-Customers/Customers?publish=yes)
+    * results here
+8. [Gender Breakdown](https://public.tableau.com/app/profile/kobert.lam/viz/NYCCitiBikeChallenge-GenderBreakdown/GenderBreakdown?publish=yes)
     * results here
 
 There are at least seven visualizations for the NYC Citibike analysis (7 pt)
