@@ -10,16 +10,15 @@ The purpose of the analysis is well defined. (5 pt)
 This site was built using [GitHub Pages](https://pages.github.com/).
 
 Seven visualizations for the NYC Citibike analysis:
-1. Checkout Times for Users (https://public.tableau.com/app/profile/kobert.lam/viz/NYCCitiBikeChallenge-CheckoutTimesforUsers/CheckoutTimesforUsers?publish=yes
-)
+1. [Checkout Times for Users](https://public.tableau.com/app/profile/kobert.lam/viz/NYCCitiBikeChallenge-CheckoutTimesforUsers/CheckoutTimesforUsers?publish=yes)
     * results here
-2. Checkout Times by Gender (https://public.tableau.com/app/profile/kobert.lam/viz/NYCCitiBikeChallenge-CheckoutTimesbyGender/CheckoutTimesbyGender?publish=yes)
+2. [Checkout Times by Gender](https://public.tableau.com/app/profile/kobert.lam/viz/NYCCitiBikeChallenge-CheckoutTimesbyGender/CheckoutTimesbyGender?publish=yes)
     * results here
-3. Trips by Weekday per Hour (https://public.tableau.com/app/profile/kobert.lam/viz/NYCCitiBikeChallenge-TripsbyWeekdayperHour/TripsbyWeekdayperHour?publish=yes)
+3. [Trips by Weekday per Hour](https://public.tableau.com/app/profile/kobert.lam/viz/NYCCitiBikeChallenge-TripsbyWeekdayperHour/TripsbyWeekdayperHour?publish=yes)
     * results here
-4. Trips by Gender (Weekday per Hour) (https://public.tableau.com/app/profile/kobert.lam/viz/NYCCitiBikeChallenge-TripsbyGenderWeekdayperHour/TripsbyGenderWeekdayperHour?publish=yes)
+4. [Trips by Gender (Weekday per Hour)](https://public.tableau.com/app/profile/kobert.lam/viz/NYCCitiBikeChallenge-TripsbyGenderWeekdayperHour/TripsbyGenderWeekdayperHour?publish=yes)
     * results here
-5. User Trips by Gender by Weekday (https://public.tableau.com/app/profile/kobert.lam/viz/NYCCitiBikeChallenge-UserTripsbyGenderbyWeekday/UserTripsbyGenderbyWeekday?publish=yes)
+5. [User Trips by Gender by Weekday](https://public.tableau.com/app/profile/kobert.lam/viz/NYCCitiBikeChallenge-UserTripsbyGenderbyWeekday/UserTripsbyGenderbyWeekday?publish=yes)
     * results here
 6. 
     * results here
