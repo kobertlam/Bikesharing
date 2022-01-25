@@ -25,7 +25,7 @@ Deliverable 2: Visualizations for the NYC Citibike trip analysis (posted to tabl
     * The total number of rides in Aug 2019 was **2,344,224**. Gender breakdown: Male 65.28%, Female 25.1%, and Unknown 9.62%. Customer type breakdown: Subscriber 81.07%, Customer 18.93%.
 
 Deliverable 3: Story for the NYC Citibike (posted to tableau public)
-[NYC CitiBike Challenge - Stroy](https://public.tableau.com/app/profile/kobert.lam/viz/NYCCitiBikeChallenge-Stroy/NYCCitiBikeAnalysis?publish=yes)
+[NYC CitiBike Challenge - Story](https://public.tableau.com/app/profile/kobert.lam/viz/NYCCitiBikeChallenge-Story/NYCCitiBikeAnalysis?publish=yes)
 
 ## Summary:
 
