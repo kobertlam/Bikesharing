@@ -23,6 +23,7 @@ The purpose of the analysis is well defined. (5 pt)
     * Most female subscribers had the trips on Mon-Sat.
     * Most non-subscribers had the trips on Sat and Sun.
 6. [Summary:](https://public.tableau.com/app/profile/kobert.lam/viz/NYCCitiBikeChallenge-Summary/Summary?publish=yes)
+    
     ![This is an image](images/Summary.jpg)
     * This dashboard includes 3 viz created in this module:
         1. Number of Rides
