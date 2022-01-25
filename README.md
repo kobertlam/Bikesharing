@@ -7,21 +7,21 @@ The purpose of the analysis is well defined. (5 pt)
 ## Results:
 
 Eight visualizations for the NYC Citibike analysis (posted to tableau public):
-1. [Checkout Times for Users](https://public.tableau.com/app/profile/kobert.lam/viz/NYCCitiBikeChallenge-CheckoutTimesforUsers/CheckoutTimesforUsers?publish=yes)
+1. [Checkout Times for Users] worksheet (https://public.tableau.com/app/profile/kobert.lam/viz/NYCCitiBikeChallenge-CheckoutTimesforUsers/CheckoutTimesforUsers?publish=yes)
     * results here
-2. [Checkout Times by Gender](https://public.tableau.com/app/profile/kobert.lam/viz/NYCCitiBikeChallenge-CheckoutTimesbyGender/CheckoutTimesbyGender?publish=yes)
+2. [Checkout Times by Gender] worksheet(https://public.tableau.com/app/profile/kobert.lam/viz/NYCCitiBikeChallenge-CheckoutTimesbyGender/CheckoutTimesbyGender?publish=yes)
     * results here
-3. [Trips by Weekday per Hour](https://public.tableau.com/app/profile/kobert.lam/viz/NYCCitiBikeChallenge-TripsbyWeekdayperHour/TripsbyWeekdayperHour?publish=yes)
+3. [Trips by Weekday per Hour] worksheet(https://public.tableau.com/app/profile/kobert.lam/viz/NYCCitiBikeChallenge-TripsbyWeekdayperHour/TripsbyWeekdayperHour?publish=yes)
     * results here
-4. [Trips by Gender (Weekday per Hour)](https://public.tableau.com/app/profile/kobert.lam/viz/NYCCitiBikeChallenge-TripsbyGenderWeekdayperHour/TripsbyGenderWeekdayperHour?publish=yes)
+4. [Trips by Gender (Weekday per Hour)] worksheet(https://public.tableau.com/app/profile/kobert.lam/viz/NYCCitiBikeChallenge-TripsbyGenderWeekdayperHour/TripsbyGenderWeekdayperHour?publish=yes)
     * results here
-5. [User Trips by Gender by Weekday](https://public.tableau.com/app/profile/kobert.lam/viz/NYCCitiBikeChallenge-UserTripsbyGenderbyWeekday/UserTripsbyGenderbyWeekday?publish=yes)
+5. [User Trips by Gender by Weekday] worksheet(https://public.tableau.com/app/profile/kobert.lam/viz/NYCCitiBikeChallenge-UserTripsbyGenderbyWeekday/UserTripsbyGenderbyWeekday?publish=yes)
     * results here
-6. [Number of Rides](https://public.tableau.com/app/profile/kobert.lam/viz/NYCCitiBikeChallenge-NumberofRides/NumberofRides?publish=yes)
+6. [Number of Rides] worksheet(https://public.tableau.com/app/profile/kobert.lam/viz/NYCCitiBikeChallenge-NumberofRides/NumberofRides?publish=yes)
     * results here
-7. [Customers](https://public.tableau.com/app/profile/kobert.lam/viz/NYCCitiBikeChallenge-Customers/Customers?publish=yes)
+7. [Customers] worksheet(https://public.tableau.com/app/profile/kobert.lam/viz/NYCCitiBikeChallenge-Customers/Customers?publish=yes)
     * results here
-8. [Gender Breakdown](https://public.tableau.com/app/profile/kobert.lam/viz/NYCCitiBikeChallenge-GenderBreakdown/GenderBreakdown?publish=yes)
+8. [Gender Breakdown] worksheet(https://public.tableau.com/app/profile/kobert.lam/viz/NYCCitiBikeChallenge-GenderBreakdown/GenderBreakdown?publish=yes)
     * results here
 
 There are at least seven visualizations for the NYC Citibike analysis (7 pt)
