@@ -6,6 +6,8 @@ The purpose of the analysis is well defined. (5 pt)
 
 ## Results:
 
+Deliverable 1: Change trip duration to a datetime format [NYC_CitiBike_Challenge.ipynb](NYC_CitiBike_Challenge.ipynb)
+
 Deliverable 2: Visualizations for the NYC Citibike trip analysis (posted to tableau public)
 1. [Checkout Times for Users](https://public.tableau.com/app/profile/kobert.lam/viz/NYCCitiBikeChallenge-CheckoutTimesforUsers/CheckoutTimesforUsers?publish=yes)
     * results here
